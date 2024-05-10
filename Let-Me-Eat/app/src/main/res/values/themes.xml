@@ -1,0 +1,7 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.LetMeEat" parent="Theme.AppCompat.Light.NoActionBar">
+    </style>
+
+    <style name="Theme.LetMeEat" parent="Base.Theme.LetMeEat" />
+</resources>
